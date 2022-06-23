@@ -9,3 +9,6 @@ https://dsjlife.github.io/ART277sec4/getintouch.html
 
 
 https://dsjlife.github.io/ART277sec4/index.html
+
+
+https://dsjlife.github.io/ART277sec4/tips.html
